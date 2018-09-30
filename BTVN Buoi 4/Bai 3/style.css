@@ -1,0 +1,20 @@
+#tieude{
+color: red;
+}
+.tieude2{
+    color: blue;
+}
+#menu{
+    background: red;
+    color: blue;
+}
+#menu ul li {
+    color: yellow;
+}
+#menu ul ul > p{
+    color: antiquewhite;
+}
+#Scial{
+    background: aqua;
+    color: blueviolet;
+}

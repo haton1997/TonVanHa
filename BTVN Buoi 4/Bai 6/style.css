@@ -1,0 +1,12 @@
+h1{
+    font-family: "Arial Narrow";
+    font-style: italic;
+    font-weight: bold;
+    color: red;
+}
+p{
+    font-family: "Calibri";
+    font-style: italic;
+    font-weight: normal;
+    color: blue;
+}
