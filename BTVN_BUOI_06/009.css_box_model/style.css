@@ -1,0 +1,16 @@
+
+div{
+    width: 200px;
+    height: 250px;
+}
+
+#box1{
+    background: red;
+    border: 2px outset red;
+}
+#box2{
+    background: blue;
+    margin:32px 0 0 0;
+    border: 2px solid red;
+    padding: 45px;
+}

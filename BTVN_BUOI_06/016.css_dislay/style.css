@@ -1,0 +1,27 @@
+.inline{
+    background: yellow;
+    border:1px solid chocolate;
+    display: inline;
+}
+.block{
+    background-color:red ;
+    display: block;
+}
+.list div{
+    list-style-type: decimal;
+    margin-left: 32px;
+    display:list-item ;
+}
+.container{
+    width: 60%;
+    margin: 0 auto;
+    display: table;
+}
+.row{
+    display: table-row;
+}
+.col{
+    display:table-cell ;
+    background: red;
+    border: 1px solid ;
+}

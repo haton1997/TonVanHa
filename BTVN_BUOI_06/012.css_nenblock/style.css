@@ -1,0 +1,10 @@
+div{
+    background: blue;
+    background-image:url("23169.jpg"),url("1.jpg") ;
+    width: 500px;
+    height: 500px;
+    padding: 55px;
+    background-repeat: no-repeat;
+    background-position:bottom left,top right;
+   background-size: 100px 400px;
+}
